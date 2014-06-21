@@ -1,4 +1,4 @@
-## These functions work in tandem to calculate and cache the inverse of a matrix.
+## These functions work in tandem to cache and calculate the inverse of a matrix.
 
 ## makeCacheMatrix takes a matrix and returns a function that encapsulates the
 ## matrix and the matrix's calculated inverse. The returned function allows
